@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vibranteventsug.github.io/vibrant-website-one/sitemap.xml

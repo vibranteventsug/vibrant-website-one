@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Vibrant Events Ug</title>
+    <link href="https://vibranteventsug.github.io/vibrant-website-one/feed.xml" rel="self" />
+    <link href="https://vibranteventsug.github.io/vibrant-website-one" />
+    <updated>2021-05-15T19:12:54+03:00</updated>
+    <author>
+        <name>Asiimwe Samuel</name>
+    </author>
+    <id>https://vibranteventsug.github.io/vibrant-website-one</id>
+
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>Asiimwe Samuel</name>
+        </author>
+        <link href="https://vibranteventsug.github.io/vibrant-website-one/contact.html"/>
+        <id>https://vibranteventsug.github.io/vibrant-website-one/contact.html</id>
+
+        <updated>2021-05-15T19:12:54+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla est purus, ultrices in porttitor in, accumsan non quam. Nam consectetur porttitor rhoncus. Curabitur eu est et leo feugiat auctor vel quis lorem. Ut et ligula dolor, sit amet consequat lorem. Aliquam porta eros sed velit&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla est purus, ultrices in porttitor<br>in, accumsan non quam. Nam consectetur porttitor rhoncus. Curabitur eu est et leo feugiat<br>auctor vel quis lorem. Ut et ligula dolor, sit amet consequat lorem. Aliquam porta eros sed<br>velit imperdiet egestas. Maecenas tempus eros ut diam ullamcorper id dictum libero<br>tempor. Donec quis augue quis magna condimentum lobortis. Quisque imperdiet ipsum vel<br>magna viverra rutrum. Cras viverra molestie urna, vitae vestibulum turpis varius id.<br>Vestibulum mollis, arcu iaculis bibendum varius, velit sapien blandit metus, ac posuere lorem<br>nulla ac dolor. Maecenas urna elit, tincidunt in dapibus nec, vehicula eu dui. Duis lacinia<br>fringilla massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur<br>ridiculus mus. Ut consequat ultricies est, non rhoncus mauris congue porta. Vivamus viverra<br>suscipit felis eget condimentum. Cum sociis natoque penatibus et magnis dis parturient<br>montes, nascetur ridiculus mus. Integer bibendum sagittis ligula, non faucibus nulla volutpat<br>vitae. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Asiimwe Samuel</name>
+        </author>
+        <link href="https://vibranteventsug.github.io/vibrant-website-one/about.html"/>
+        <id>https://vibranteventsug.github.io/vibrant-website-one/about.html</id>
+
+        <updated>2021-05-15T19:11:15+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Team Work Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla est purus, ultrices in porttitor in, accumsan non quam. Nam consectetur porttitor rhoncus. Curabitur eu est et leo feugiat auctor vel quis lorem. Ut et ligula dolor, sit amet consequat lorem. Aliquam porta eros&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center"><span style="text-decoration: underline; color: #e03e2d;"><strong>Team Work</strong></span></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla est purus, ultrices in porttitor<br>in, accumsan non quam. Nam consectetur porttitor rhoncus. Curabitur eu est et leo feugiat<br>auctor vel quis lorem. Ut et ligula dolor, sit amet consequat lorem. Aliquam porta eros sed<br>velit imperdiet egestas. Maecenas tempus eros ut diam ullamcorper id dictum libero<br>tempor. Donec quis augue quis magna condimentum lobortis. Quisque imperdiet ipsum vel</p>
+<p><br>magna viverra rutrum. Cras viverra molestie urna, vitae vestibulum turpis varius id.<br>Vestibulum mollis, arcu iaculis bibendum varius, velit sapien blandit metus, ac posuere lorem<br>nulla ac dolor. Maecenas urna elit, tincidunt in dapibus nec, vehicula eu dui. Duis lacinia<br>fringilla massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur<br>ridiculus mus. Ut consequat ultricies est, non rhoncus mauris congue porta. Vivamus viverra<br>suscipit felis eget condimentum. Cum sociis natoque penatibus et magnis dis parturient<br>montes, nascetur ridiculus mus. Integer bibendum sagittis ligula, non faucibus nulla volutpat<br>vitae. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

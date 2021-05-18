@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Vibrant Events Ug",
+    "description": "",
+    "home_page_url": "https://vibranteventsug.github.io/vibrant-website-one",
+    "feed_url": "https://vibranteventsug.github.io/vibrant-website-one/feed.json",
+    "user_comment": "",
+    "icon": "https://vibranteventsug.github.io/vibrant-website-one/media/website/IMG-20210408-WA0002.jpg",
+    "author": {
+        "name": "Asiimwe Samuel"
+    },
+    "items": [
+        {
+            "id": "https://vibranteventsug.github.io/vibrant-website-one/contact.html",
+            "url": "https://vibranteventsug.github.io/vibrant-website-one/contact.html",
+            "title": "Contact",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla est purus, ultrices in porttitor in, accumsan non quam. Nam consectetur porttitor rhoncus. Curabitur eu est et leo feugiat auctor vel quis lorem. Ut et ligula dolor, sit amet consequat lorem. Aliquam porta eros sed velit&hellip;",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla est purus, ultrices in porttitor<br>in, accumsan non quam. Nam consectetur porttitor rhoncus. Curabitur eu est et leo feugiat<br>auctor vel quis lorem. Ut et ligula dolor, sit amet consequat lorem. Aliquam porta eros sed<br>velit imperdiet egestas. Maecenas tempus eros ut diam ullamcorper id dictum libero<br>tempor. Donec quis augue quis magna condimentum lobortis. Quisque imperdiet ipsum vel<br>magna viverra rutrum. Cras viverra molestie urna, vitae vestibulum turpis varius id.<br>Vestibulum mollis, arcu iaculis bibendum varius, velit sapien blandit metus, ac posuere lorem<br>nulla ac dolor. Maecenas urna elit, tincidunt in dapibus nec, vehicula eu dui. Duis lacinia<br>fringilla massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur<br>ridiculus mus. Ut consequat ultricies est, non rhoncus mauris congue porta. Vivamus viverra<br>suscipit felis eget condimentum. Cum sociis natoque penatibus et magnis dis parturient<br>montes, nascetur ridiculus mus. Integer bibendum sagittis ligula, non faucibus nulla volutpat<br>vitae. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>",
+            "author": {
+                "name": "Asiimwe Samuel"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-15T19:08:20+03:00",
+            "date_modified": "2021-05-15T19:12:54+03:00"
+        },
+        {
+            "id": "https://vibranteventsug.github.io/vibrant-website-one/about.html",
+            "url": "https://vibranteventsug.github.io/vibrant-website-one/about.html",
+            "title": "About",
+            "summary": "Team Work Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla est purus, ultrices in porttitor in, accumsan non quam. Nam consectetur porttitor rhoncus. Curabitur eu est et leo feugiat auctor vel quis lorem. Ut et ligula dolor, sit amet consequat lorem. Aliquam porta eros&hellip;",
+            "content_html": "<p class=\"align-center\"><span style=\"text-decoration: underline; color: #e03e2d;\"><strong>Team Work</strong></span></p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla est purus, ultrices in porttitor<br>in, accumsan non quam. Nam consectetur porttitor rhoncus. Curabitur eu est et leo feugiat<br>auctor vel quis lorem. Ut et ligula dolor, sit amet consequat lorem. Aliquam porta eros sed<br>velit imperdiet egestas. Maecenas tempus eros ut diam ullamcorper id dictum libero<br>tempor. Donec quis augue quis magna condimentum lobortis. Quisque imperdiet ipsum vel</p>\n<p><br>magna viverra rutrum. Cras viverra molestie urna, vitae vestibulum turpis varius id.<br>Vestibulum mollis, arcu iaculis bibendum varius, velit sapien blandit metus, ac posuere lorem<br>nulla ac dolor. Maecenas urna elit, tincidunt in dapibus nec, vehicula eu dui. Duis lacinia<br>fringilla massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur<br>ridiculus mus. Ut consequat ultricies est, non rhoncus mauris congue porta. Vivamus viverra<br>suscipit felis eget condimentum. Cum sociis natoque penatibus et magnis dis parturient<br>montes, nascetur ridiculus mus. Integer bibendum sagittis ligula, non faucibus nulla volutpat<br>vitae. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>",
+            "author": {
+                "name": "Asiimwe Samuel"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-15T19:07:53+03:00",
+            "date_modified": "2021-05-15T19:11:15+03:00"
+        }
+    ]
+}
